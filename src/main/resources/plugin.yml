@@ -1,3 +1,4 @@
 name: Bedwars1058-GameEndCmd
 version: '${project.version}'
 main: win.trystage.bedwars.EndCmd.GameEndCmd
+author: Trystage4C01
