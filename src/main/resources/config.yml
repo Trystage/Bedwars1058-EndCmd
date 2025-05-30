@@ -1,0 +1,4 @@
+# Type 可以是CONSOLE 和 PLAYER
+type: PLAYER
+command:
+  - "lobby"
