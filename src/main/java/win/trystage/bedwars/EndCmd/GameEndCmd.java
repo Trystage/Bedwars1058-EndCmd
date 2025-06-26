@@ -19,7 +19,7 @@ public final class GameEndCmd extends JavaPlugin implements Listener {
         // Plugin startup logic
         saveDefaultConfig();
         commands = this.getConfig().getStringList("command");
-        type = this.getConfig().getString(type);
+        type = this.getConfig().getString("type");
         Bukkit.getServer().getPluginManager().registerEvents(this,this);
     }
 
